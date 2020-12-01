@@ -12,7 +12,6 @@
 ## Who works for bot name here? 
 **The dev team includes:**
 Owner: Psyonix_#9705
-Developer: Oofus McDoofus#0469
 Developer: Epicer#0001
 Developer: Hello,Wolrd!#3228
 
