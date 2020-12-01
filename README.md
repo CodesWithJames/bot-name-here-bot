@@ -1,1 +1,31 @@
-# bot-name-here-bot
+# Bot name here Bot
+
+
+------
+
+## What is bot name here?
+**Bot name here is a discord bot made with the framework discord.js and language JavaScript.**
+**We offer a large quantity of commands, ready to pimp up your server then invite bot name here at our website!**
+
+------
+
+## Who works for bot name here? 
+**The dev team includes:**
+Owner: Psyonix_#9705
+Developer: Oofus McDoofus#0469
+Developer: Epicer#0001
+Developer: Hello,Wolrd!#3228
+
+------
+
+## More here blablablablablablablalba
+
+------
+
+## More here blablablablablablablalba
+
+------
+
+## More here blablablablablablablalba
+
+------
